@@ -16,7 +16,7 @@ The configuration involved for the image and data directory lives in
 Before doing anything else, you must import the involved module:
 
 ```pwsh
-PS > Import-Module .\Msvce.psm1
+PS > Import-Module .\Msvce.psm1 
 ```
 
 ### Building the Docker Image
